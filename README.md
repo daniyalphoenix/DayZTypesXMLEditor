@@ -1,4 +1,4 @@
-# DayZTypeXMLEditor
+## DayZTypeXMLEditor
 
 <p align="center">
     <a href="https://github.com/ojemineh/DayZTypeXMLEditor/releases/latest">
@@ -20,7 +20,9 @@
 
 This is an editor to comfortably modify the loot table (types.xml) of the game "DayZ (Standalone)".
 ---
-## Usage
+
+
+### Usage
 
 
 The loot table of DayZ (Standalone) is stored in a XML file inside the current mission.
