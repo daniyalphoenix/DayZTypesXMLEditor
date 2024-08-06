@@ -1,19 +1,19 @@
-# DayZTypeXMLEditor
+# DayZTypesXMLEditor
 
 <p align="center">
-    <a href="https://github.com/ojemineh/DayZTypeXMLEditor/releases/latest">
+    <a href="https://github.com/ojemineh/DayZTypesXMLEditor/releases/latest">
         <img src="https://img.shields.io/badge/Version-1.1-blue.svg?style=flat-square" alt="Loot Editor Version">
     </a>
-    <a href="https://github.com/ojemineh/DayZTypeXMLEditor/issues">
-        <img src="https://img.shields.io/github/issues-raw/daniyalphoenix/DayZTypeXMLEditor.svg?style=flat-square&label=Issues" alt="Loot Editor Issues">
+    <a href="https://github.com/ojemineh/DayZTypesXMLEditor/issues">
+        <img src="https://img.shields.io/github/issues-raw/daniyalphoenix/DayZTypesXMLEditor.svg?style=flat-square&label=Issues" alt="Loot Editor Issues">
     </a>
-    <a href="https://github.com/ojemineh/DayZTypeXMLEditor/releases">
-        <img src="https://img.shields.io/github/downloads/daniyalphoenix/DayZTypeXMLEditor/total.svg?style=flat-square&label=Downloads" alt="Loot Editor Downloads">
+    <a href="https://github.com/ojemineh/DayZTypesXMLEditor/releases">
+        <img src="https://img.shields.io/github/downloads/daniyalphoenix/DayZTypesXMLEditor/total.svg?style=flat-square&label=Downloads" alt="Loot Editor Downloads">
     </a>
-    <a href="https://github.com/ojemineh/DayZTypeXMLEditor/wiki">
-        <img src="https://img.shields.io/badge/DayZTypeXMLEditor-Wiki-lightgrey.svg?style=flat-square" alt="Loot Editor Wiki">
+    <a href="https://github.com/ojemineh/DayZTypesXMLEditor/wiki">
+        <img src="https://img.shields.io/badge/DayZTypesXMLEditor-Wiki-lightgrey.svg?style=flat-square" alt="Loot Editor Wiki">
     </a>
-	<a href="https://github.com/ojemineh/DayZTypeXMLEditor/blob/master/LICENSE">
+	<a href="https://github.com/ojemineh/DayZTypesXMLEditor/blob/master/LICENSE">
         <img src="https://img.shields.io/badge/License-MIT-red.svg?style=flat-square" alt="Loot Editor License">
     </a>
 </p>
