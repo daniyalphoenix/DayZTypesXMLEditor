@@ -1,6 +1,4 @@
-
-
-# DayZ Loot Editor
+# DayZTypeXMLEditor
 
 <p align="center">
     <a href="https://github.com/ojemineh/DayZTypeXMLEditor/releases/latest">
@@ -20,19 +18,8 @@
     </a>
 </p>
 
-An editor to comfortably modify the loot table of the game "DayZ (Standalone)".
-
-
+This is an editor to comfortably modify the loot table (types.xml) of the game "DayZ (Standalone)".
 ---
-
-
-**Version 0.3.14**  
-**[DOWNLOAD](https://github.com/ojemineh/DayZTypeXMLEditor/releases)**
-
-This tool requires at least **Windows 7 SP1** & **.NET Framework 4.8**.
-
-
-
 ## Usage
 
 
