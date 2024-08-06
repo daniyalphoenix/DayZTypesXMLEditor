@@ -33,7 +33,7 @@ Changing the file in your local game folder will only affect yourself while play
 
 To start, open the file `types.xml`. 
 
-![DayZ LootEdit](DayZTypeXMLEdit.png)
+![DayZ LootEdit](dayzlootedit.png)
 
 
 
