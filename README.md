@@ -1,4 +1,4 @@
-## DayZTypeXMLEditor
+# DayZTypeXMLEditor
 
 <p align="center">
     <a href="https://github.com/ojemineh/DayZTypeXMLEditor/releases/latest">
@@ -33,7 +33,7 @@ Changing the file in your local game folder will only affect yourself while play
 
 To start, open the file `types.xml`. 
 
-![DayZ LootEdit](DayZTypeXMLEditor.png)
+![DayZ LootEdit](DayZTypeXMLEdit.png)
 
 
 
