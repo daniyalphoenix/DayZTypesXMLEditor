@@ -2,13 +2,13 @@
 
 <p align="center">
     <a href="https://github.com/ojemineh/DayZTypeXMLEditor/releases/latest">
-        <img src="https://img.shields.io/badge/Version-0.3.14-blue.svg?style=flat-square" alt="Loot Editor Version">
+        <img src="https://img.shields.io/badge/Version-1.1-blue.svg?style=flat-square" alt="Loot Editor Version">
     </a>
     <a href="https://github.com/ojemineh/DayZTypeXMLEditor/issues">
-        <img src="https://img.shields.io/github/issues-raw/ojemineh/DayZTypeXMLEditor.svg?style=flat-square&label=Issues" alt="Loot Editor Issues">
+        <img src="https://img.shields.io/github/issues-raw/daniyalphoenix/DayZTypeXMLEditor.svg?style=flat-square&label=Issues" alt="Loot Editor Issues">
     </a>
     <a href="https://github.com/ojemineh/DayZTypeXMLEditor/releases">
-        <img src="https://img.shields.io/github/downloads/ojemineh/DayZTypeXMLEditor/total.svg?style=flat-square&label=Downloads" alt="Loot Editor Downloads">
+        <img src="https://img.shields.io/github/downloads/daniyalphoenix/DayZTypeXMLEditor/total.svg?style=flat-square&label=Downloads" alt="Loot Editor Downloads">
     </a>
     <a href="https://github.com/ojemineh/DayZTypeXMLEditor/wiki">
         <img src="https://img.shields.io/badge/DayZTypeXMLEditor-Wiki-lightgrey.svg?style=flat-square" alt="Loot Editor Wiki">
